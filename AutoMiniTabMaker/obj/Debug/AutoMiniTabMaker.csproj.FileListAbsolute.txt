@@ -1,0 +1,50 @@
+C:\Users\K90013271\Desktop\AutoMinitabMaker\AutoMiniTabMaker\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.exe.config
+C:\Users\K90013271\Desktop\AutoMinitabMaker\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoMinitabMaker\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoMinitabMaker\AutoMiniTabMaker\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.exe
+C:\Users\K90013271\Desktop\AutoMinitabMaker\AutoMiniTabMaker\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.pdb
+C:\Users\K90013271\Desktop\AutoMinitabMaker\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.exe
+C:\Users\K90013271\Desktop\AutoMinitabMaker\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.pdb
+C:\Users\K90013271\Desktop\nowwy\AutoMiniTabMaker\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.exe.config
+C:\Users\K90013271\Desktop\nowwy\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\nowwy\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.exe
+C:\Users\K90013271\Desktop\nowwy\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.pdb
+C:\Users\K90013271\Desktop\nowwy\AutoMiniTabMaker\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.exe
+C:\Users\K90013271\Desktop\nowwy\AutoMiniTabMaker\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.pdb
+C:\Users\K90013271\Desktop\nowwy\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.csprojResolveAssemblyReference.cache
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoMiniTabMaker\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.exe.config
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.csproj.ResolveComReference.cache
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.exe
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.pdb
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoMiniTabMaker\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.exe
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoMiniTabMaker\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.pdb
+C:\Users\K90013271\Desktop\AutoMiniTabMaker\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.exe.config
+C:\Users\K90013271\Desktop\AutoMiniTabMaker\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.exe
+C:\Users\K90013271\Desktop\AutoMiniTabMaker\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.pdb
+C:\Users\K90013271\Desktop\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.exe
+C:\Users\K90013271\Desktop\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.pdb
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoMiniTabMaker polaczone\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.exe.config
+C:\Users\K90013271\Desktop\AutoMiniTabMaker polaczone\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoMiniTabMaker polaczone\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.exe
+C:\Users\K90013271\Desktop\AutoMiniTabMaker polaczone\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.pdb
+C:\Users\K90013271\Desktop\AutoMiniTabMaker polaczone\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.exe
+C:\Users\K90013271\Desktop\AutoMiniTabMaker polaczone\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.pdb
+C:\Users\K90013271\Desktop\AutoMiniTabMaker polaczone\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoMiniTabMaker2\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.exe.config
+C:\Users\K90013271\Desktop\AutoMiniTabMaker2\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoMiniTabMaker2\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.exe
+C:\Users\K90013271\Desktop\AutoMiniTabMaker2\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.pdb
+C:\Users\K90013271\Desktop\AutoMiniTabMaker2\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.exe
+C:\Users\K90013271\Desktop\AutoMiniTabMaker2\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.pdb
+C:\Users\K90013271\Desktop\AutoMiniTabMaker2\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.csprojResolveAssemblyReference.cache
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoMiniTabMaker\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.exe.config
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoMiniTabMaker\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.exe
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoMiniTabMaker\AutoMiniTabMaker\bin\Debug\AutoMiniTabMaker.pdb
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.csproj.AssemblyReference.cache
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.csproj.ResolveComReference.cache
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.csproj.CoreCompileInputs.cache
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.exe
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoMiniTabMaker\AutoMiniTabMaker\obj\Debug\AutoMiniTabMaker.pdb
